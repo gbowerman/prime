@@ -5,4 +5,4 @@ __Acknowledgements__
 Credit to Rahul Upadhyaya (@kavishavi) for the inspiration - see a .NET console version here: [https://github.com/kavishavi/PrimeFar](https://github.com/kavishavi/PrimeFar) 
 
 __License__
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
