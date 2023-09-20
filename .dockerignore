@@ -1,0 +1,4 @@
+.gitignore
+LICENSE
+*.md
+__pycache__/

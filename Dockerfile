@@ -1,5 +1,5 @@
 # Use an official Python image as a base
-FROM python:3.9
+FROM python:3.11.5
 
 # Copy the Flask app files to the image
 COPY . /app
