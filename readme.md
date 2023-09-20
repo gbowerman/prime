@@ -20,6 +20,8 @@ Note: The first time you run "az containerapp up" you'll be prompted to install 
 ### Option 2: Create and run a Docker container image  
 Note: If running on Windows, first install Docker Desktop, and make sure you have git installed.  
 
+Change the image tag _"prime-app"_ in the commands below to any name you want to give it.  
+
 1. Clone this repo locally (e.g. using git command line or VS Code etc.)
 2. cd to the prime directory  
 3. Build a container image:  
